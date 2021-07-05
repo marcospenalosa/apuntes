@@ -4,8 +4,8 @@ Studio Code solo hacía Pull (descargar ficheros), con el Push (subir) se quedab
 
 # Solución
 Desde el propio VScode.
-1. Abrir la terminal
-2. git push
-3. Seleccionar web
+1. Abrir la terminal.
+2. Escribir el comando *git push*
+3. Seleccionar web en las opciones que nos muestra.
 4. Abrirá el navegador web para que autorices el proceso.
 5. Aceptar la autorización.
